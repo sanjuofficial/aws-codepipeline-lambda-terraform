@@ -1,16 +1,16 @@
-shared-file-path = "C:/Users/sanjay_kumar17/.aws/credentials"
+shared-file-path = ""
 
-profile = "sanju"
+profile = ""
 
-region = "us-east-1"
+region = ""
 
-artifact_bucket = "sam-artifacts-bucket-07-05-2020"
+artifact_bucket = "sam-artifacts-bucket"
 
-codepipeline_bucket = "codepipeline-bucket-07-05-2020"
+codepipeline_bucket = "codepipeline-bucket"
 
-codecommit_repo = "cp-codecommit-repo"
+codecommit_repo = "codecommit-repo"
 
-codebuild_project = "build-project-lambda"
+codebuild_project = "codebuild-project"
 
 codepipeline_name = "codepipeline-lambda"
 
